@@ -10,8 +10,7 @@ var holiday = "Independence Day"
 
 var name = "you"
 
-function happyCustomHolidayTo(holiday, name) { return
-`Happy ${holiday}, ${name}!` }
+function happyCustomHolidayTo(holiday, name) { return `Happy ${holiday}, ${name}!` }
 
 var days = "20"
 
