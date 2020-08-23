@@ -2,7 +2,7 @@
 
 function happyHolidays() { return "Happy holidays!" }
 
-var holiday = "New Year"
+var holiday = "Independence Day"
 
 var name = "you"
 
