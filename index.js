@@ -6,6 +6,8 @@ var name = "you"
 
 function happyHolidaysTo(name) { return `Happy holidays, ${name}!` }
 
+var name = "you"
+
 var holiday = "Independence Day"
 
 function happyCustomHolidayTo(holiday, name) { return
