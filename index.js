@@ -2,9 +2,9 @@
 
 function happyHolidays() { return "Happy holidays!" }
 
-var holiday = "Thanksgiving"
+var holiday = "New Year"
 
-var name = "you"
+var name = "everyone"
 
 function happyHolidaysTo(name) { return `Happy holidays, ${name}!` }
 
